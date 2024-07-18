@@ -2,11 +2,14 @@
 
 Dear Recruiter and Hiring Manager,
 
-**Thank you so much** for taking the time reviewing my resume! 😊 
+**Thank you so much** for taking the time to review my resume! 😊 
 
-I created this document to provide you with supplementary materials such as GIF demos and additional information in case you want to know more details about the bulletpoints on my resume. 
+I created this document to provide you with supplementary materials, such as GIF demos and additional information, in case you would like to know more details about the bullet points on my resume. 
 
 If you have more questions, please feel free to email me at albertchen2017@outlook.com!
+
+Sincerely,  
+Haoze (Albert) Chen
 
 ## Software Engineering Intern at JUYI Technology (June 2023 - August 2023)
 
